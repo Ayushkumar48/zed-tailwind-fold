@@ -1,0 +1,7 @@
+id = "tailwind-fold"
+name = "Tailwind Fold"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ayush Kumar <ayushsuperstar48@gmail.com>"]
+description = "An extension for Tailwind CSS to inline-fold class attributes, similar to the VSCode Tailwind-Fold."
+repository = "https://github.com/Ayushkumar48/zed-tailwind-fold"
